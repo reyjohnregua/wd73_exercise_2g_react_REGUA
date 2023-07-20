@@ -1,0 +1,30 @@
+.header {
+    background-color: hsla(0, 0%, 2%, 0.8);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    padding-inline: 100px;
+}
+
+.header a {
+    text-decoration: none;
+    color: rgba(231, 230, 230, 0.9);
+}
+
+.footer {
+    background-color: hsla(0, 0%, 2%, 0.8);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    padding-inline: 100px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer a {
+    text-decoration: none;
+    color: rgba(231, 230, 230, 0.9);
+}
